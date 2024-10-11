@@ -1,0 +1,534 @@
+@charset "ISO-8859-1";
+
+@import
+	url(https://db.onlinewebfonts.com/c/dee7016df987b3e264b59037efc95baa?family=P22+Mackinac+W01+Medium)
+	;
+
+* {
+	margin: 0px;
+	
+}
+
+body{
+	background-color: #EDDFCB;
+	
+}
+
+.stiff{
+	position : absolute;
+	max-width: 200px;
+}
+.empty{
+	margin-top:100px;
+}
+.bigfont{
+	font-size: 40px;
+}
+.bg-custom {
+	
+	background: #fd5834 ;
+	background: #fd5834 ;
+	fc593b
+	fd5834
+}
+.bg-custom1 {
+	
+	background: #FF5026 ;
+	
+}
+.colortt
+{
+	color : white;
+}
+.blackcolor
+{
+	color : black;
+	
+	
+	
+}
+.navbar-brand {
+	
+	
+	
+}
+.anchor:hover
+{
+/*	box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color] */ 
+	
+   
+}
+
+.abcd
+{
+	margin: 30px;
+	max-width: 310px;
+}
+.Heading
+{
+	
+	margin: 30px;
+	margin-top: 120px;
+}
+.sub-Heading
+{
+	
+	margin: 30px;
+	margin-top: 70px;
+	
+}
+.subH
+{
+	color: black;
+	
+}
+.subH:hover
+{
+	color : #fc593b;
+	text-decoration: none;
+	
+	text-shadow: 0 0 5px #000000, 
+                        
+            color: #fd5834;
+           
+            background-color: #EDDFCB;
+            border : 1px solid fd5834;
+        
+	
+}
+.h-link
+{
+	text-decoration: none;
+}
+.brand {
+	color: #EDDFCB ;
+	font-size: 30px;
+	
+	-------------------------------------------
+	
+   
+    
+    
+    
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+	
+	-------------------------------------------
+	
+}
+.fr
+{
+	color : #EDDFCB;
+}
+.brand:hover
+{
+	color: white ;
+	
+	
+	
+}
+
+.brand:active {
+    transform: scale(0.88);
+}
+
+
+.logoimg
+{
+	margin-top:-15px;
+ 
+}
+.btn-custom
+{
+	margin : 5px;
+	background-color : #EDDFCB ;
+	border-color: #fd5834 ;
+	
+}
+.addtn
+{
+	position : fixed;
+	
+	
+	 
+	height: 100%;
+	
+}
+.static
+{
+	position : relative;
+	  
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+.btn-custom1
+{
+	margin : 5px;
+	background-color : #EDDFCB ;
+	border-color: #fd5834 ;
+	color : white;
+	
+}
+.bar {
+	
+	margin-right : 10px;
+	margin-left:-5px;
+	  
+	border-radius: 5px;
+	
+}
+.nav-item
+{
+
+	
+	position : absolute;
+	margin-top : -16px;
+	
+	
+	
+}
+
+.btn-custom:hover
+{
+	background-color : #fd5834 ;
+	border: 1px solid white;
+	color : white;
+	
+}
+.navbar-custom .nav-item .nav-link
+{
+	margin-top: 1px;
+	padding : 7px;
+}
+.navbar-custom .nav-item:hover .nav-link
+{
+	color : white;
+	border:1px solid white;
+  /*	color : #81c784; */
+  border-radius : 5px;
+  padding : 7px;
+}
+
+
+.navbar-custom .anchor:hover .navbar-brand
+{
+	content: "";
+	animation: anim 7.5s linear 1;
+  animation-fill-mode: forwards;
+  broder : 1px black solid;
+}
+
+
+
+
+
+.custom-shape-divider-bottom-1726373712 {
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+     max-height: 100vh;
+   
+    z-index: -1;
+}
+
+.custom-shape-divider-bottom-1726373712 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 249px;
+    z-index: -1;
+     max-height: 100vh;
+    
+    
+}
+
+.custom-shape-divider-bottom-1726373712 .shape-fill {
+    fill: #fd5834;
+    z-index: -1;
+   
+}
+
+
+
+.empty{
+	
+	
+	height: 30px;
+	margin-left : 40px;
+	
+	
+	
+}
+.emptyy
+{
+	margin-bottom: 0px;
+	position : fixed; 
+
+}
+.tan0{
+	position : absolute;
+	z-index:-1;	
+	margin-top: -120px;
+}
+.Heading1
+{
+	font-size: 40px;
+	margin: 0px;
+	margin-bottom: ;
+	margin-top: 120px;
+}
+.para
+{
+	margin-top: 30px;
+}
+	
+.card1
+{
+	width : 500px;
+	
+}
+
+.lcenter
+{
+	margin-left: 215px;
+}
+.llcenter
+{
+	
+	z-index: -1;
+	margin-top : 0px;
+}
+
+.footer
+{
+	position : fixed;
+	margin-top : 600px;
+	margin-left: 130px;
+	
+}
+.bgimg
+{
+	position : fixed;
+	margin-left: 550px;
+	margin-top:-90px;
+}
+
+
+
+
+
+
+
+
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------- 
+.custom-shape-divider-bottom-1728380739 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1728380739 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 241px;
+}
+
+.custom-shape-divider-bottom-1728380739 .shape-fill {
+    fill: #FD5834;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------
+.custom-shape-divider-top-1728378697 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1728378697 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 210px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1728378697 .shape-fill {
+    fill: #FD5834;
+}
+
+.rotate
+{
+	
+	
+	position : fixed; 
+	transform: rotateX(180deg);
+	margin-top: 140px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
